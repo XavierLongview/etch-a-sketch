@@ -8,5 +8,9 @@
 
 .box {
     border: 1px solid black;
+}
 
+button {
+    margin-bottom: 30px;
+    padding: 10px;
 }
